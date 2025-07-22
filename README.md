@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/vanta-banner.png" alt="Vanta Logo" width="700" />
+  <img src="https://user-images.githubusercontent.com/yourusername/vanta-banner.png](https://raw.githubusercontent.com/VantaLang/Vanta/refs/heads/main/vanta.png" alt="Vanta Logo" width="700" />
 </p>
 
 # Vanta
