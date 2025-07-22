@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/vanta-banner.png](https://raw.githubusercontent.com/VantaLang/Vanta/refs/heads/main/vanta.png" alt="Vanta Logo" width="700" />
+  <img src="https://raw.githubusercontent.com/VantaLang/Vanta/refs/heads/main/vanta.png" alt="Vanta Logo" width="700" />
 </p>
 
 # Vanta
@@ -13,4 +13,3 @@
   <a href="#"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License MIT" /></a>
   <a href="#"><img src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square" alt="Build Passing" /></a>
 </p>
-
