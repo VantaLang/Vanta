@@ -6,10 +6,8 @@ We provide security updates for the following versions of Vanta:
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 1.0  | :white_check_mark: |
+
 
 If you are using an unsupported version, please upgrade to a supported version to receive security patches and updates.
 
